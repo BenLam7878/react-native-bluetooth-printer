@@ -1,0 +1,30 @@
+{
+  "name": "react-native-bluetooth-printer",
+  "version": "0.1.0",
+  "description": "",
+  "author": "Ben lam<ben_lam@happyclass.cn>",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenLam7878/react-native-bluetooth-printer"
+  },
+  "bugs": {
+    "url": "https://github.com/BenLam7878/react-native-bluetooth-printer/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "bluetooth",
+    "printer",
+    "蓝牙",
+    "打印"
+  ],
+  "license": "",
+  "private": false,
+  "peerDependencies": {
+    "react-native": "^0.42.0"
+  }
+}
